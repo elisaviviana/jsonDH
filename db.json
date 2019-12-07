@@ -3,11 +3,11 @@
     {
       "id": 1,
       "nombre": "Memoria RAM DDR4 8GB",
-      "marca": "Kingston",
-      "precio": 2500,
-      "modelo": "0X2548754",
-      "img": "Https://algunaurl.com/imagenDelProducto.jpg",
-      "desc": "Memoria RAM para Notebooks DDR4 de 8GB. 1 Año de garantía."
+      "marca": "Adidas",
+      "precio": 4786,
+      "modelo": "force",
+      "img": "https://d26lpennugtm8s.cloudfront.net/stores/734/720/products/pic_20191206_234302-3d5d0a76fd9d1c24b515756866125280-240-0.jpg",
+      "desc": "Zapatillas adidas"
     },
     {
       "id": 2,
