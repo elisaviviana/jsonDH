@@ -7,16 +7,25 @@
       "precio": 4786,
       "modelo": "force",
       "img": "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj09symnLHmAhU6G7kGHY95AIwQjRx6BAgBEAQ&url=https%3A%2F%2Farticulo.mercadolibre.com.pe%2FMPE-427554921-zapatillas-adidas-force-one-_JM&psig=AOvVaw2HXzcIWhgCcQviBDKXk2SJ&ust=1576278269696535",
-      "desc": "Zapatillas adidas"
+      "desc": "Zapatillas Force adidas"
     },
     {
       "id": 2,
-      "nombre": "Placa Video Geforce GTX 1050",
-      "marca": "Intel",
-      "precio": 5000,
-      "modelo": "0X2548754",
-      "img": "Https://algunaurl.com/imagenDelProducto.jpg",
-      "desc": "Descripción del producto"
+      "CodProducto": 2081,
+      "marca": "Tooper",
+      "precio": 5887,
+      "modelo": "Flex",
+      "img": "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj09symnLHmAhU6G7kGHY95AIwQjRx6BAgBEAQ&url=https%3A%2F%2Farticulo.mercadolibre.com.pe%2FMPE-427554921-zapatillas-adidas-force-one-_JM&psig=AOvVaw2HXzcIWhgCcQviBDKXk2SJ&ust=1576278269696535",
+      "desc": "Zapatillas Flex Tooper"
+    },
+     {
+      "id": 3,
+      "CodProducto": 2082,
+      "marca": "Puma",
+      "precio": 3876,
+      "modelo": "Ignite",
+      "img": "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj09symnLHmAhU6G7kGHY95AIwQjRx6BAgBEAQ&url=https%3A%2F%2Farticulo.mercadolibre.com.pe%2FMPE-427554921-zapatillas-adidas-force-one-_JM&psig=AOvVaw2HXzcIWhgCcQviBDKXk2SJ&ust=1576278269696535",
+      "desc": "Zapatillas Ignite Puma"
     }
    ]
 }
