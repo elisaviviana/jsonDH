@@ -1,7 +1,7 @@
 {
   "productos": [
     {
-      "id": 1,
+      "id": 0,
       "CodProducto": 2080,
       "marca": "Adidas",
       "precio": 4786,
@@ -10,7 +10,7 @@
       "desc": "Zapatillas Force adidas"
     },
     {
-      "id": 2,
+      "id": 1,
       "CodProducto": 2081,
       "marca": "Tooper",
       "precio": 5887,
@@ -19,6 +19,15 @@
       "desc": "Zapatillas Flex Tooper"
     },
      {
+      "id": 2,
+      "CodProducto": 2082,
+      "marca": "Puma",
+      "precio": 3876,
+      "modelo": "Ignite",
+      "img": "https://ferreira.vteximg.com.br/arquivos/ids/306258-1000-1000/pu_19300104.jpg?v=637015595333930000",
+      "desc": "Zapatillas Ignite Puma"
+    },
+      {
       "id": 3,
       "CodProducto": 2082,
       "marca": "Puma",
@@ -35,7 +44,8 @@
       "modelo": "Ignite",
       "img": "https://ferreira.vteximg.com.br/arquivos/ids/306258-1000-1000/pu_19300104.jpg?v=637015595333930000",
       "desc": "Zapatillas Ignite Puma"
-    },
+    }
+    ,
       {
       "id": 5,
       "CodProducto": 2082,
@@ -68,16 +78,6 @@
     ,
       {
       "id": 8,
-      "CodProducto": 2082,
-      "marca": "Puma",
-      "precio": 3876,
-      "modelo": "Ignite",
-      "img": "https://ferreira.vteximg.com.br/arquivos/ids/306258-1000-1000/pu_19300104.jpg?v=637015595333930000",
-      "desc": "Zapatillas Ignite Puma"
-    }
-    ,
-      {
-      "id": 9,
       "CodProducto": 2082,
       "marca": "Puma",
       "precio": 3876,
