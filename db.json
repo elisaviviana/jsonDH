@@ -85,5 +85,55 @@
       "img": "https://ferreira.vteximg.com.br/arquivos/ids/306258-1000-1000/pu_19300104.jpg?v=637015595333930000",
       "desc": "Zapatillas Ignite Puma"
     }
+        ,
+      {
+      "id": 9,
+      "CodProducto": 2082,
+      "marca": "Puma",
+      "precio": 3876,
+      "modelo": "Ignite",
+      "img": "https://ferreira.vteximg.com.br/arquivos/ids/306258-1000-1000/pu_19300104.jpg?v=637015595333930000",
+      "desc": "Zapatillas Ignite Puma"
+    }
+        ,
+      {
+      "id": 10,
+      "CodProducto": 2082,
+      "marca": "Puma",
+      "precio": 3876,
+      "modelo": "Ignite",
+      "img": "https://ferreira.vteximg.com.br/arquivos/ids/306258-1000-1000/pu_19300104.jpg?v=637015595333930000",
+      "desc": "Zapatillas Ignite Puma"
+    }
+        ,
+      {
+      "id": 8,
+      "CodProducto": 2082,
+      "marca": "Puma",
+      "precio": 3876,
+      "modelo": "Ignite",
+      "img": "https://ferreira.vteximg.com.br/arquivos/ids/306258-1000-1000/pu_19300104.jpg?v=637015595333930000",
+      "desc": "Zapatillas Ignite Puma"
+    }
+        ,
+      {
+      "id": 8,
+      "CodProducto": 2082,
+      "marca": "Puma",
+      "precio": 3876,
+      "modelo": "Ignite",
+      "img": "https://ferreira.vteximg.com.br/arquivos/ids/306258-1000-1000/pu_19300104.jpg?v=637015595333930000",
+      "desc": "Zapatillas Ignite Puma"
+    }
+        ,
+      {
+      "id": 8,
+      "CodProducto": 2082,
+      "marca": "Puma",
+      "precio": 3876,
+      "modelo": "Ignite",
+      "img": "https://ferreira.vteximg.com.br/arquivos/ids/306258-1000-1000/pu_19300104.jpg?v=637015595333930000",
+      "desc": "Zapatillas Ignite Puma"
+    }
    ]
 }
