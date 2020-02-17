@@ -7,7 +7,7 @@
       "precio": 4786,
       "modelo": "force",
       "img": "https://www.digitalsport.com.ar/files/products/59b6f18cc6059-426200-1200x1200.jpg",
-      "desc": "Zapatillas Force adidas"
+      "descripcion": "Zapatillas Force adidas"
     },
     {
       "id": 1,
@@ -16,7 +16,7 @@
       "precio": 5887,
       "modelo": "Flex",
       "img": "https://du8tyx4xgi3it.cloudfront.net/103889-thickbox_default/zapatillas-topper-de-lona-nino.jpg",
-      "desc": "Zapatillas Flex Tooper"
+      "descripcion": "Zapatillas Flex Tooper"
     },
      {
       "id": 2,
@@ -25,7 +25,7 @@
       "precio": 3876,
       "modelo": "Ignite",
       "img": "https://ferreira.vteximg.com.br/arquivos/ids/306258-1000-1000/pu_19300104.jpg?v=637015595333930000",
-      "desc": "Zapatillas Ignite Puma"
+      "descripcion": "Zapatillas Ignite Puma"
     },
       {
       "id": 3,
@@ -34,7 +34,7 @@
       "precio": 3876,
       "modelo": "Ignite",
       "img": "https://ferreira.vteximg.com.br/arquivos/ids/306258-1000-1000/pu_19300104.jpg?v=637015595333930000",
-      "desc": "Zapatillas Ignite Puma"
+      "descripcion": "Zapatillas Ignite Puma"
     },
       {
       "id": 4,
@@ -43,7 +43,7 @@
       "precio": 3876,
       "modelo": "Ignite",
       "img": "https://ferreira.vteximg.com.br/arquivos/ids/306258-1000-1000/pu_19300104.jpg?v=637015595333930000",
-      "desc": "Zapatillas Ignite Puma"
+      "descripcion": "Zapatillas Ignite Puma"
     }
     ,
       {
@@ -53,7 +53,7 @@
       "precio": 3876,
       "modelo": "Ignite",
       "img": "https://ferreira.vteximg.com.br/arquivos/ids/306258-1000-1000/pu_19300104.jpg?v=637015595333930000",
-      "desc": "Zapatillas Ignite Puma"
+      "descripcion": "Zapatillas Ignite Puma"
     }
     ,
       {
@@ -63,7 +63,7 @@
       "precio": 3876,
       "modelo": "Ignite",
       "img": "https://ferreira.vteximg.com.br/arquivos/ids/306258-1000-1000/pu_19300104.jpg?v=637015595333930000",
-      "desc": "Zapatillas Ignite Puma"
+      "descripcion": "Zapatillas Ignite Puma"
     }
     ,
       {
@@ -73,7 +73,7 @@
       "precio": 3876,
       "modelo": "Ignite",
       "img": "https://ferreira.vteximg.com.br/arquivos/ids/306258-1000-1000/pu_19300104.jpg?v=637015595333930000",
-      "desc": "Zapatillas Ignite Puma"
+      "descripcion": "Zapatillas Ignite Puma"
     }
     ,
       {
@@ -83,7 +83,7 @@
       "precio": 3876,
       "modelo": "Ignite",
       "img": "https://ferreira.vteximg.com.br/arquivos/ids/306258-1000-1000/pu_19300104.jpg?v=637015595333930000",
-      "desc": "Zapatillas Ignite Puma"
+      "descripcion": "Zapatillas Ignite Puma"
     }
         ,
       {
@@ -93,7 +93,7 @@
       "precio": 3876,
       "modelo": "Ignite",
       "img": "https://ferreira.vteximg.com.br/arquivos/ids/306258-1000-1000/pu_19300104.jpg?v=637015595333930000",
-      "desc": "Zapatillas Ignite Puma"
+      "descripcion": "Zapatillas Ignite Puma"
     }
         ,
       {
@@ -103,7 +103,7 @@
       "precio": 3876,
       "modelo": "Ignite",
       "img": "https://ferreira.vteximg.com.br/arquivos/ids/306258-1000-1000/pu_19300104.jpg?v=637015595333930000",
-      "desc": "Zapatillas Ignite Puma"
+      "descripcion": "Zapatillas Ignite Puma"
     }
         ,
       {
@@ -113,7 +113,7 @@
       "precio": 3876,
       "modelo": "Ignite",
       "img": "https://ferreira.vteximg.com.br/arquivos/ids/306258-1000-1000/pu_19300104.jpg?v=637015595333930000",
-      "desc": "Zapatillas Ignite Puma"
+      "descripcion": "Zapatillas Ignite Puma"
     }
         ,
       {
@@ -123,7 +123,7 @@
       "precio": 3876,
       "modelo": "Ignite",
       "img": "https://ferreira.vteximg.com.br/arquivos/ids/306258-1000-1000/pu_19300104.jpg?v=637015595333930000",
-      "desc": "Zapatillas Ignite Puma"
+      "descripcion": "Zapatillas Ignite Puma"
     }
         ,
       {
@@ -133,7 +133,7 @@
       "precio": 3876,
       "modelo": "Ignite",
       "img": "https://ferreira.vteximg.com.br/arquivos/ids/306258-1000-1000/pu_19300104.jpg?v=637015595333930000",
-      "desc": "Zapatillas Ignite Puma"
+      "descripcion": "Zapatillas Ignite Puma"
     }
    ]
 }
